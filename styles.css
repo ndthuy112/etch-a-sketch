@@ -1,0 +1,16 @@
+.container {
+    width: 48rem;
+    height: 48rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.row-container {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+
+.square {
+    flex-grow: 1;
+}
