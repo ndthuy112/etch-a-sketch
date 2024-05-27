@@ -14,3 +14,7 @@
 .square {
     flex-grow: 1;
 }
+
+.button-container {
+    margin-bottom: 1rem;
+}
